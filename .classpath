@@ -7,6 +7,5 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="img"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/GuiX"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
